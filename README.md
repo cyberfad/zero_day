@@ -1,0 +1,1 @@
+This is a readme file to post on my first commit using git bash.
